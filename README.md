@@ -1,4 +1,4 @@
-# bg-home-task-v1
+# fastapi-test-task-bg-v1
 Test task for Junior Python Coder position<br>
 
 Docker<br>
