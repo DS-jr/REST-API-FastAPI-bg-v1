@@ -1,0 +1,10 @@
+version: "3"
+services: 
+  my_app1_container3: 
+    build: .
+    expose: 
+      - "8000"
+    ports:
+      - "8000:8000"
+
+
