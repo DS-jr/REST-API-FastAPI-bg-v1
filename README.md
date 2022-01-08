@@ -8,8 +8,8 @@ Starting the docker container:<br>
 $ docker run -p 80:80 -it fastapi-image<br> 
 
 Running the app locally<br>
-Requirements: 
-Make sure you have installed the requirements found in requirements.txt in a virtual environment. 
-Running the code: 
-$ docker-compose up
+Requirements:<br>
+Make sure you have installed the requirements found in requirements.txt in a virtual environment.<br> 
+Running the code:<br> 
+$ docker-compose up<br>
 
