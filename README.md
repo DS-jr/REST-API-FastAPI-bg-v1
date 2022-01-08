@@ -3,7 +3,13 @@ Test task for Junior Python Coder position<br>
 
 Docker<br>
 Building the docker image:<br>
-$ sudo docker build -t fastapi-image .<br>
+$ docker build -t fastapi-image .<br>
 Starting the docker container:<br>
-$ docker run -p 80:80 -it fastapi-image<br>
+$ docker run -p 80:80 -it fastapi-image<br> 
+
+Running the app locally<br>
+Requirements: 
+Make sure you have installed the requirements found in requirements.txt in a virtual environment. 
+Running the code: 
+$ docker-compose up
 
