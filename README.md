@@ -1,7 +1,7 @@
 # bg-home-task-v1
 Test task for Junior Python Coder position
 
-<h2>Docker</h2>
+Docker
 Building the docker image: 
 sudo docker build -t fastapi-image .
 Starting the docker container: 
