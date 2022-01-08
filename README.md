@@ -1,8 +1,8 @@
 # API with FastAPI framework
 API processing signatures.tsv file (table with data), allowing to search & get data from the table<br>
 
-Clone this repository<br>
-Enter the clonde directory on your computer<br>
+Clone this GitHub repository<br>
+Enter the cloned directory on your computer<br>
 
 
 <h2>Run the solution</h2>
