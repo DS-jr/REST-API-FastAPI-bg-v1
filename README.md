@@ -1,9 +1,9 @@
 # API with FastAPI framework
 API processing signatures.tsv file (table with data), allowing to search & get data from the table<br>
 
-(?) Download locally the archived folder from GitHub: press the green "Code" button, then press "Download ZIP"<br>
+(??) Download locally the archived folder from GitHub: press the green "Code" button, then press "Download ZIP"<br>
 
-<h2>(?)Create a virtual environment</h2>
+<h2>(??)Create a virtual environment</h2>
 $ pip3 install virtualenv<br>
 $ python3 -m virtualenv env-app1<br>
 $ source env-app1/bin/activate<br>
@@ -12,7 +12,7 @@ $ source env-app1/bin/activate<br>
 Building the docker image:<br>
 $ docker build -t image-name1 .<br>
 Starting the docker container:<br>
-$ docker run -p 8000:8000 --name container-name1 fastapi-image1<br> 
+$ docker run -p 8000:8000 --name container-name1 image-name1<br> 
 
 <h2>Run the solution</h2>
 $ docker-compose up<br>
