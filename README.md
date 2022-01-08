@@ -1,4 +1,4 @@
-# API with FastAPI
+# API with FastAPI framework
 API processing signatures.tsv file (table with data), allowing to search & get data from the table<br>
 
 Docker<br>
