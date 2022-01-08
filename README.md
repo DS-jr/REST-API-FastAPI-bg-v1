@@ -1,5 +1,5 @@
 # fastapi-test-task-bg-v1
-Test task for Junior Python Coder position<br>
+API processing signatures.tsv file (table with data), allowing to search & get data from the table<br>
 
 Docker<br>
 Building the docker image:<br>
