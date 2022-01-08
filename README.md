@@ -1,11 +1,9 @@
 # API with FastAPI framework
 API processing signatures.tsv file (table with data), allowing to search & get data from the table<br>
 
-<h2>Docker</h2>
-Building the docker image:<br>
-$ docker build -t image-name1 .<br>
-Starting the docker container:<br>
-$ docker run -p 8000:8000 --name container-name1 image-name1<br> 
+Clone this repository<br>
+Enter the clonde directory on your computer<br>
+
 
 <h2>Run the solution</h2>
 $ docker-compose up<br>
