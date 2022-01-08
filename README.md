@@ -14,6 +14,6 @@ $ docker-compose up<br>
 Open http://0.0.0.0:8000/docs in a browser<br>
 Press "GET" button<br>
 Press "Try it out" button<br>
-Paste to patient_id section: id from the first column in signatures.tsv file. Input examples to try: NSCLC1155 NSCLC825 NSCLC1425<br>
+Paste to patient_id section: id from the first column in signatures.tsv file. Input examples to try: NSCLC1155 or NSCLC825<br>
 Press "Execute" button<br>
 
