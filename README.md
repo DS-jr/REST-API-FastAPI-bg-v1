@@ -1,4 +1,4 @@
-# fastapi-test-task-bg-v1
+# API with FastAPI
 API processing signatures.tsv file (table with data), allowing to search & get data from the table<br>
 
 Docker<br>
