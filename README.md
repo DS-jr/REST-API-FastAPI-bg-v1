@@ -9,7 +9,7 @@ Enter the cloned directory on your computer<br>
 <h2>Step 2: Run the solution</h2>
 $ docker-compose up<br>
 
-<h2>Step 3: Check the solution & outcomes via Swagger UI:</h2>
+<h2>Step 3: Check the solution & outcomes via Swagger UI</h2>
 Open http://0.0.0.0:8000/docs in a browser<br>
 Press "GET" button<br>
 Press "Try it out" button<br>
